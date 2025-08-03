@@ -1,0 +1,6 @@
+{
+    "intent": "Build a tool that organizes downloaded files by type",
+    "clarification": "Move images, documents, and media to separate folders automatically",
+    "fork": "Option B",
+    "justification": "Chose modular logic for easy expansion and maintenance"
+}

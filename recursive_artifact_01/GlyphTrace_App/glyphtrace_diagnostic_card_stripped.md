@@ -1,0 +1,2 @@
+**Artifact Name**: GlyphTrace
+**Version**: 1.0.0

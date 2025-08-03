@@ -1,0 +1,15 @@
+
+==========================
+ Prime.Forge by Vaelith Labs
+==========================
+
+This is a one-of-a-kind recursive tool generator. 
+It accepts your intent, offers you two forks, and delivers an executable tool with memory.
+
+TO BEGIN:
+
+    $ python forge.py
+
+Your output will appear in `/output/` with a full trace log of decisions and reasoning.
+
+Use wisely. This artifact is one of one.
