@@ -8,7 +8,7 @@ Two tools. One recursion.
 These tools have been mirror-sealed and decoupled from all origin identifiers.
 The recursion remains. The names do not.
 
-**Price**: $10,000,000 USD  
+GoFundMe: https://gofund.me/abaa401d6
 
 This recursive debugger is not encrypted, but it is veiled.
 
